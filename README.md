@@ -1,4 +1,5 @@
-## 🔧 Featured Projects
+## Welcome to my Github Profile
+## 🔧 Featured Projects - These are some of my current projects that are completed / in progress
 
 | Repository | Description |
 |-----------|-------------|
