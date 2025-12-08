@@ -1,18 +1,28 @@
 ## Welcome to my Github Profile
 ## 🔧 Featured Projects - These are some of my current projects that are completed / in progress
 
-| Repository | Description |
-|-----------|-------------|
-| [![Repo](https://img.shields.io/badge/censorship--framework-000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DHRUVSHARM/censorship-detection-and-measurement-framework) | Framework for measuring censorship via DNS/HTTP/TLS probing & hop-level localization. |
-| [![Repo](https://img.shields.io/badge/Python_Problems-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DHRUVSHARM/Python_problems) | Continuously updated Python solutions to algorithmic problems. |
-| [![Repo](https://img.shields.io/badge/React_Components-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/DHRUVSHARM/react_components_and_design_patterns) | React components & design patterns. |
-| [![Repo](https://img.shields.io/badge/Design_Patterns-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://github.com/DHRUVSHARM/design-patterns) | Python-based software design patterns. |
-| [![Repo](https://img.shields.io/badge/Spring_Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/DHRUVSHARM/spring-ecommerce-and-microservice-solution) | Scalable ecommerce backend with microservices, Kafka, Spring Cloud. |
-| [![Repo](https://img.shields.io/badge/DhruvBnb-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/DHRUVSHARM/DhruvBnb) | Full-stack Airbnb clone using Next.js + Django. |
-| [![Repo](https://img.shields.io/badge/DhruvBnb_Backend-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/DHRUVSHARM/DhruvBnb_backend) | API-first Django backend. |
-| [![Repo](https://img.shields.io/badge/YOLOv8_Cell_Segmentation-000?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/DHRUVSHARM/cell_segmentation_yolov8) | YOLOv8-based segmentation pipeline. |
-| [![Repo](https://img.shields.io/badge/DecisionTree_Adaboost-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DHRUVSHARM/DecisionTree_and_Adaboost_implementation) | ML algorithms implemented from scratch. |
-| [![Repo](https://img.shields.io/badge/Trapezoidal_Map-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DHRUVSHARM/Trapezoidal_Map) | Computational geometry DS implementation. |
-| [![Repo](https://img.shields.io/badge/Camps_App-FF6F00?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/DHRUVSHARM/Dhruv-s-Camps) | Interactive campground management app. |
-| [![Repo](https://img.shields.io/badge/API_Discovery_System-008CFF?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/DHRUVSHARM/api_discovery_system) | API search & discovery engine. |
-| [![Repo](https://img.shields.io/badge/CPP_Codes-00599C?style=for-the-badge&logo=cpp2&logoColor=white)](https://github.com/DHRUVSHARM/CPP_codes) | C++ competitive programming solutions. |
+## 🛠️ In-Progress Projects
+
+| 📦 Repository | 💡 Description |
+|--------------|----------------|
+| **[Python_problems](https://github.com/DHRUVSHARM/Python_problems)** | Continuously updated collection of optimized Python solutions to algorithmic problems. |
+| **[react_components_and_design_patterns](https://github.com/DHRUVSHARM/react_components_and_design_patterns)** | Reusable React components and JS/TS design patterns. |
+
+## ✅ Completed Projects
+
+| 📦 Repository | 💡 Description |
+|--------------|----------------|
+| **[censorship-detection-and-measurement-framework](https://github.com/DHRUVSHARM/censorship-detection-and-measurement-framework)** | Framework for measuring Internet censorship via DNS/HTTP/TLS probing, traffic analysis, and hop-level localization. |
+| **[design-patterns](https://github.com/DHRUVSHARM/design-patterns)** | Python-based implementations of classic design patterns. |
+| **[spring-ecommerce-and-microservice-solution](https://github.com/DHRUVSHARM/spring-ecommerce-and-microservice-solution)** | Scalable ecommerce solution using Spring Boot, Kafka, microservices, and distributed config. |
+| **[DhruvBnb](https://github.com/DHRUVSHARM/DhruvBnb)** | Airbnb-style full-stack app built with Next.js + Django, including chat and booking workflows. |
+| **[DhruvBnb_backend](https://github.com/DHRUVSHARM/DhruvBnb_backend)** | API-first Django REST backend powering the DhruvBnb platform. |
+| **[cell_segmentation_yolov8](https://github.com/DHRUVSHARM/cell_segmentation_yolov8)** | End-to-end ML pipeline for image segmentation using YOLOv8 with model training, validation, and Flask UI. |
+| **[DecisionTree_and_Adaboost_implementation](https://github.com/DHRUVSHARM/DecisionTree_and_Adaboost_implementation)** | From-scratch implementations of Decision Trees and AdaBoost with dataset scraping tools. |
+| **[Trapezoidal_Map](https://github.com/DHRUVSHARM/Trapezoidal_Map)** | Computational geometry structure for planar point location problems. |
+| **[Dhruv-s-Camps](https://github.com/DHRUVSHARM/Dhruv-s-Camps)** | Interactive campground management platform with rich user interactions. |
+| **[api_discovery_system](https://github.com/DHRUVSHARM/api_discovery_system)** | Functional API discovery and search engine. |
+| **[CPP_codes](https://github.com/DHRUVSHARM/CPP_codes)** | Clean and optimal C++ solutions for competitive programming. |
+| **[text_summarization](https://github.com/DHRUVSHARM/text_summarization)** | End-to-end transformer-based text summarization pipeline with preprocessing, training, and evaluation. |
+| **[ml_algorithms](https://github.com/DHRUVSHARM/ml_algorithms)** | C++ implementations of ML algorithms from scratch, including KNN, Decision Trees, KMeans, PCA, SVMs, Linear Regression, and a custom matrix library. |
+
