@@ -6,7 +6,6 @@
 | 📦 Repository | 💡 Description |
 |--------------|----------------|
 | **[Python_problems](https://github.com/DHRUVSHARM/Python_problems)** | Continuously updated collection of optimized Python solutions to algorithmic problems. |
-| **[react_components_and_design_patterns](https://github.com/DHRUVSHARM/react_components_and_design_patterns)** | Reusable React components and JS/TS design patterns. |
 
 ## ✅ Completed Projects
 
@@ -26,4 +25,5 @@
 | **[text_summarization](https://github.com/DHRUVSHARM/text_summarization)** | End-to-end transformer-based text summarization pipeline with preprocessing, training, and evaluation. |
 | **[ml_algorithms](https://github.com/DHRUVSHARM/ml_algorithms)** | C++ implementations of ML algorithms from scratch, including KNN, Decision Trees, KMeans, PCA, SVMs, Linear Regression, and a custom matrix library. |
 | **[My-portfolio](https://github.com/DHRUVSHARM/My-portfolio)** | Source code for my portfolio website, including a Loom demo of both desktop and mobile views. |
+| **[react_components_and_design_patterns](https://github.com/DHRUVSHARM/react_components_and_design_patterns)** | Reusable React components and JS/TS design patterns. |
 
