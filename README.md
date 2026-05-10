@@ -26,4 +26,4 @@
 | **[ml_algorithms](https://github.com/DHRUVSHARM/ml_algorithms)** | C++ implementations of ML algorithms from scratch, including KNN, Decision Trees, KMeans, PCA, SVMs, Linear Regression, and a custom matrix library. |
 | **[My-portfolio](https://github.com/DHRUVSHARM/My-portfolio)** | Source code for my portfolio website, including a Loom demo of both desktop and mobile views. |
 | **[react_components_and_design_patterns](https://github.com/DHRUVSHARM/react_components_and_design_patterns)** | Reusable React components and JS/TS design patterns. |
-
+| **[collaborative-task-management-system](https://github.com/DHRUVSHARM/collaborative-task-management-system)** | Scalable realtime collaborative task management system built with Next.js, PostgreSQL, and Prisma, featuring SSE sync, activity-event replay, cursor pagination, virtualization, Dockerized setup, and OpenAPI docs. |
