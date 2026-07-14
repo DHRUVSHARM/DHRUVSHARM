@@ -7,6 +7,7 @@
 |--------------|----------------|
 | **[Python_problems](https://github.com/DHRUVSHARM/Python_problems)** | Continuously updated collection of optimized Python solutions to algorithmic problems. |
 | **[flight-reservation-system](https://github.com/DHRUVSHARM/flight-reservation-system)** | Python OOP-based flight reservation system with role-based access, flight search and booking workflows, MySQL persistence, and Dockerized local setup. |
+| **[LLD_Practice](https://github.com/DHRUVSHARM/LLD_Practice)** | Continuously updated collection of multi-level CodeSignal ICF simulations and low-level design problems with custom Python solutions and test suites. |
 
 ## ✅ Completed Projects
 
