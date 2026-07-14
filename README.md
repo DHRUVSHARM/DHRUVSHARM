@@ -6,6 +6,7 @@
 | 📦 Repository | 💡 Description |
 |--------------|----------------|
 | **[Python_problems](https://github.com/DHRUVSHARM/Python_problems)** | Continuously updated collection of optimized Python solutions to algorithmic problems. |
+| **[flight-reservation-system](https://github.com/DHRUVSHARM/flight-reservation-system)** | Python OOP-based flight reservation system with role-based access, flight search and booking workflows, MySQL persistence, and Dockerized local setup. |
 
 ## ✅ Completed Projects
 
